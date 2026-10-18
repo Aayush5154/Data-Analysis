@@ -256,17 +256,6 @@ The following insights are verified directly from the project's analytical noteb
 - **Database Indexing**: For high-volume production deployments, MySQL indexing on `order_id`, `customer_unique_id`, and `order_purchase_timestamp` is recommended to maintain sub-second query response times.
 
 ---
-
-## 📜 License and Attribution
-
-### Attribution
-- This project is adapted from the open-source analysis created by **Karthik M** ([karthik-data-analyst/ecommerce-sales-analytics](https://github.com/karthik-data-analyst/ecommerce-sales-analytics)).
-- All core analytical workflows, SQL logic, dashboard designs, and notebooks are credited to the original author.
-
-### Licensing Notice
-- The original repository did not include a standalone software license file or an explicit licensing statement. Consequently, this repository is maintained for educational and portfolio demonstration purposes. Users seeking to redistribute or utilize code elements commercially should consult the original author.
-- The underlying **Brazilian E-Commerce Public Dataset by Olist** is published on Kaggle under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
-
 ---
 
 ## 🙏 Acknowledgments
