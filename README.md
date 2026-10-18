@@ -256,9 +256,4 @@ The following insights are verified directly from the project's analytical noteb
 - **Database Indexing**: For high-volume production deployments, MySQL indexing on `order_id`, `customer_unique_id`, and `order_purchase_timestamp` is recommended to maintain sub-second query response times.
 
 ---
----
 
-## 🙏 Acknowledgments
-
-- **Olist** for publishing the real-world Brazilian e-commerce dataset on Kaggle.
-- **Karthik M** for the initial project implementation and analytical structure ([Source Repository](https://github.com/karthik-data-analyst/ecommerce-sales-analytics)).
